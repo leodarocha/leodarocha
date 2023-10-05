@@ -4,6 +4,9 @@
 - 🌱 Estudando: Análise e desenvolvimento de sistemas 
 - 😄 Pronouns: ele/dele
 
+- ## Habilidades 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 
   <a href="https://github.com/leodarocha">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=leonardorocha&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
